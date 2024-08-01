@@ -1,0 +1,54 @@
+.contaainer{
+    background-image:linear-gradient(rgba( 0, 0, 0,0.7), rgba(0,0,0,0.7)), url(/src/assets/images/Rectangle\ 1.png);
+    background-size: cover;
+    
+    
+}
+.navbar{
+    background-color: transparent;
+    color: white;
+    
+ 
+}
+.navbar img{
+    background-color: #F9A51A;
+    border-radius: 10px;
+    margin-left: 20px;
+  
+}
+.navbar input{
+    color: black;
+}
+.bnr-container{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+   
+}
+.home img{
+    width: 216px;
+    height: 350px;
+    border: 2px solid #F9A51A;
+    border-radius: 17px;
+}
+.all-btn{
+    background-color: #F9A51A;
+    padding: 10px 35px;
+    border-radius: 5px;
+}
+.arrow{
+    position: relative;
+    right: 28px;
+    top: 3px;
+}
+.carousel-item{
+    position:relative;
+}
+.text{
+    position: absolute;
+   color: white;
+   top: 80%;
+   left: 5%;
+}
+
